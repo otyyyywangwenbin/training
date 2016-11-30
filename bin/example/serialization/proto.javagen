@@ -1,0 +1,1 @@
+protoc -I=/opt/downloads/z_tmp --java_out=/opt/downloads/z_tmp /opt/downloads/z_tmp/addressbook.proto
